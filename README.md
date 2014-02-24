@@ -1,3 +1,5 @@
+#This fork is intended to allow Adobe to install svg-stylus from within its network. svg-stylus relies on a fork of xml-doc and that dependency must be retrieved using HTTPS instead of SSH due to network policy.
+
 #SVG Stylus
 
 This project aims to recreate the functionality of [rework-svg](https://npmjs.org/package/rework-svg) but adapted to work with [Stylus](http://learnboost.github.io/stylus/).
