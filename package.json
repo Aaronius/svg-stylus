@@ -31,8 +31,8 @@
   },
   "dependencies": {
     "rework": "*",
-	"underscore": "*",
-    "xmldoc": "git+ssh://git@github.com:jankuca/xmldoc.git"
+    "underscore": "*",
+    "xmldoc": "git+https://github.com/jankuca/xmldoc.git
   },
   "bugs": {
     "url": "https://github.com/walle89/svg-stylus/issues/"
